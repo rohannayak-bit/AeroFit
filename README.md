@@ -17,7 +17,8 @@ recommendations for improving sales and customer targeting.
 # Dataset:-
 - Insight and case study file: AeroFit_casestudy.ipynb
 - Raw Data File: aerofit_treadmill.csv
-- Records In Raw Data File: Customers who purchased a treadmill in the last 3 months  
+- Records In Raw Data File: Customers who purchased a treadmill in the last 3 months
+- Reference Analytical Question File - AerFit overview.
 
 # Features:
 - Product (KP281, KP481, KP781)
